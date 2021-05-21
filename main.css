@@ -367,57 +367,57 @@ table {
 /* Grid Icons */
 
 #gridsection-1 .image_holder {
-	background-image: url("https://mum-mih.github.io/moodle-template/Icon_calendar.png");
-	background-size: contain;
-	background-repeat: no-repeat
-}
-#gridsection-2 .image_holder {
 	background-image: url("https://mum-mih.github.io/moodle-template/Icon_assignments.png");
 	background-size: contain;
 	background-repeat: no-repeat
 }
+#gridsection-2 .image_holder {
+	background-image: url("https://mum-mih.github.io/moodle-template/topic1.png");
+	background-size: contain;
+	background-repeat: no-repeat
+}
 #gridsection-3 .image_holder {
-	background-image: url("https://mum-mih.github.io/moodle-template/Icon_wk0.png");
+	background-image: url("https://mum-mih.github.io/moodle-template/topic2.png");
 	background-size: contain;
 	background-repeat: no-repeat
 }
 #gridsection-4 .image_holder {
-	background-image: url("https://mum-mih.github.io/moodle-template/Icon_wk1.png");
+	background-image: url("https://mum-mih.github.io/moodle-template/topic3.png");
 	background-size: contain;
 	background-repeat: no-repeat
 }
 #gridsection-5 .image_holder {
-	background-image: url("https://mum-mih.github.io/moodle-template/Icon_wk2.png");
+	background-image: url("https://mum-mih.github.io/moodle-template/topic4.png");
 	background-size: contain;
 	background-repeat: no-repeat
 }
 #gridsection-6 .image_holder {
-	background-image: url("https://mum-mih.github.io/moodle-template/Icon_wk3.png");
+	background-image: url("https://mum-mih.github.io/moodle-template/topic5.png");
 	background-size: contain;
 	background-repeat: no-repeat
 }
 #gridsection-7 .image_holder {
-	background-image: url("https://mum-mih.github.io/moodle-template/Icon_wk4.png");
+	background-image: url("https://mum-mih.github.io/moodle-template/topic6.png");
 	background-size: contain;
 	background-repeat: no-repeat
 }
 #gridsection-8 .image_holder {
-	background-image: url("https://mum-mih.github.io/moodle-template/Icon_wk5.png");
+	background-image: url("https://mum-mih.github.io/moodle-template/topic7.png");
 	background-size: contain;
 	background-repeat: no-repeat
 }
 #gridsection-9 .image_holder {
-	background-image: url("https://mum-mih.github.io/moodle-template/Icon_wk6.png");
+	background-image: url("https://mum-mih.github.io/moodle-template/topic8.png");
 	background-size: contain;
 	background-repeat: no-repeat
 }
 #gridsection-10 .image_holder {
-	background-image: url("https://mum-mih.github.io/moodle-template/Icon_wk7.png");
+	background-image: url("https://mum-mih.github.io/moodle-template/topic9.png");
 	background-size: contain;
 	background-repeat: no-repeat
 }
 #gridsection-11 .image_holder {
-	background-image: url("https://mum-mih.github.io/moodle-template/Icon_wk8.png");
+	background-image: url("https://mum-mih.github.io/moodle-template/topic10.png");
 	background-size: contain;
 	background-repeat: no-repeat
 }

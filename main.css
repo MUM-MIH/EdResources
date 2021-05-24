@@ -421,30 +421,35 @@ table {
 	background-size: contain;
 	background-repeat: no-repeat
 }
-
 #gridsection-12 .image_holder {
-	background-image: url("https://mum-mih.github.io/EdResources/Icon_Forum.png");
+	background-image: url("https://mum-mih.github.io/moodle-template/Icon_topic11.png");
 	background-size: contain;
 	background-repeat: no-repeat
 }
 #gridsection-13 .image_holder {
-	background-image: url("https://mum-mih.github.io/moodle-template/Icon_contacts.png");
+	background-image: url("https://mum-mih.github.io/EdResources/Icon_Forum.png");
 	background-size: contain;
 	background-repeat: no-repeat
 }
 #gridsection-14 .image_holder {
-	background-image: url("https://mum-mih.github.io/moodle-template/Icon_resources.png");
+	background-image: url("https://mum-mih.github.io/moodle-template/Icon_contacts.png");
 	background-size: contain;
 	background-repeat: no-repeat
 }
 #gridsection-15 .image_holder {
-	background-image: url("https://mum-mih.github.io/moodle-template/Icon_policy.png");
+	background-image: url("https://mum-mih.github.io/moodle-template/Icon_resources.png");
 	background-size: contain;
 	background-repeat: no-repeat
 }
 #gridsection-16 .image_holder {
+	background-image: url("https://mum-mih.github.io/moodle-template/Icon_policy.png");
+	background-size: contain;
+	background-repeat: no-repeat
+}
+#gridsection-17 .image_holder {
 	background-image: url("https://mum-mih.github.io/moodle-template/Icon_design.png");
 	background-size: contain;
 	background-repeat: no-repeat
 }
+
 --></style>

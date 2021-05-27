@@ -1,4 +1,4 @@
-      (function() {
+      window.onload = (function() {
         if ( $( "#accordion" ).length ) {
                 $("#accordion1, #accordion2").accordion({
                         header: "h5",

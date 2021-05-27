@@ -1,6 +1,6 @@
       window.onload = (function() {
         if ( $( "#accordion" ).length ) {
-                $("#accordion1, #accordion2").accordion({
+                $("#accordion").accordion({
                         header: "h5",
                         collapsible: false,
                         heightStyle: "content",

@@ -1,10 +1,6 @@
-if (/section/.test(window.location.href)) {
-        document.getElementById('hiddenoverview').style.display = 'none';
-      }
-
       $(function() {
-        if ( $( "#accordion" ).length ) {
-                $("#accordion").accordion({
+        if ( $( "#accordion1, #accordion2" ).length ) {
+                $("#accordion1, #accordion2").accordion({
                         header: "h5",
                         collapsible: false,
                         heightStyle: "content",

@@ -1,5 +1,4 @@
-      window.onload = (function() {
-        if ( $( "#accordion" ).length ) {
+ if ( $( "#accordion" ).length ) {
                 $("#accordion").accordion({
                         header: "h5",
                         collapsible: false,
@@ -7,4 +6,3 @@
                         active: 0,
                 });
          }
-       });

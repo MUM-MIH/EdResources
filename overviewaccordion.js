@@ -1,5 +1,5 @@
       $(function() {
-        if ( $( "#accordion1, #accordion2" ).length ) {
+        if ( $( "#accordion, #accordion" ).length ) {
                 $("#accordion1, #accordion2").accordion({
                         header: "h5",
                         collapsible: false,

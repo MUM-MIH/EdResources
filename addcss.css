@@ -59,7 +59,7 @@ line-height: 1.5rem !important;
 
 /*This increases default height of the Attoeditor */
 div#id_introeditoreditable {
-	min-height: 600px;
+	min-height: 600px !important;
 }
 
 /*This ensures there is no space at the top of the blocks on the right*/

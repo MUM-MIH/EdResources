@@ -1,9 +1,14 @@
-// directs the function to work once the page has loaded.
-window.onload=function(){	
+if (/section/.test(window.location.href)) {
+        document.getElementById('hiddenoverview').style.display = 'none';
+      }
+
+      $(function() {
+        if ( $( "#accordion" ).length >0 ) {
                 $("#accordion").accordion({
                         header: "h5",
                         collapsible: false,
                         heightStyle: "content",
                         active: 0,
                 });
-         };
+         }
+       });

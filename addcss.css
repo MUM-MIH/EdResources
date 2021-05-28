@@ -226,3 +226,8 @@ input:checked ~ .acctab-content {
 .acctab td{
 background-color: #FFFFFF;
 }
+
+/* Changes color of links on entire site to match theme */
+a {
+color: #006080!important
+}

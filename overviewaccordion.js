@@ -9,7 +9,9 @@ window.onload=function(){
 // opens the tinyMCE toolbar rows 2 and 3 on load (once a user collapses this again, it stops working)
    		$('.mceToolbarRow2').css('display', 'table');
   		$('.mceToolbarRow3').css('display', 'table');
-  	});if (/section/.test(window.location.href)) {
+  	});
+	
+	if (/section/.test(window.location.href)) {
         document.getElementById('hiddenoverview').style.display = 'none';
       }
 

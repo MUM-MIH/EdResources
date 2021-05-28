@@ -21,4 +21,4 @@ if ( $( "#accordion" ).length ) {
                         active: 0,
                 });
          }
-
+};

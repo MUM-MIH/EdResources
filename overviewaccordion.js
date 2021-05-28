@@ -6,5 +6,4 @@ window.onload=function(){
                         heightStyle: "content",
                         active: 0,
                 });
-         }
-};
+         };

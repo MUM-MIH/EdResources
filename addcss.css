@@ -62,7 +62,7 @@ div#id_introeditoreditable {
 	min-height: 600px !important;
 }
 
-div#id_id_content_editoreditable { /*This increases default height of the Attoeditor in Books */
+div#id_content_editoreditable { /*This increases default height of the Attoeditor in Books */
 	min-height: 600px !important;
 }
 

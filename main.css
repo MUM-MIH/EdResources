@@ -426,7 +426,7 @@ table {
 	}
 	 div>iframe[src*="panopto"] {
 		 margin-left: 85px;
-		 width:580px;
+		 width:50%;
 		 height:326px;
   	}
 }
@@ -456,6 +456,10 @@ table {
 	padding-right: 0px;
 	padding-left: 0px;
 	}
+	
+	 div>iframe[src*="panopto"] {
+		 width:100%;
+  	}
 	
 	path-site li.activity>div, .path-course-view li.activity>div {
 		padding: 0;

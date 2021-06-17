@@ -456,6 +456,15 @@ table {
 	padding-right: 0px;
 	padding-left: 0px;
 	}
+	
+	path-site li.activity>div, .path-course-view li.activity>div {
+		padding: 0;
+	}
+	
+	.section .label .contentwithoutlink, .section .label .activityinstance {
+		padding-right: 0;
+	}
+		
 }
 
 

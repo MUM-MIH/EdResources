@@ -411,7 +411,7 @@ table {
 /* For tablets and larger */
 	div>iframe[src*="panopto"] {
 		 margin-left: 85px;
-		 width:100%;
+		 width:86%;
 		 height:350px;
   	}
 	.section>li:not(.activity.modtype_label){

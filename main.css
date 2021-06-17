@@ -98,6 +98,8 @@ div.contentafterlink > div > div::before { /* Adds speech bubble tail to activit
 	}
 	 div>iframe[src*="panopto"] {
 		 margin-left: 85px;
+		 width:580px;
+		 height:326px;
   	}
 }
 

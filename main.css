@@ -321,7 +321,7 @@ table {
 /* Grid Icons */
 
 #gridsection-1 .image_holder {
-	background-image: url("https://mum-mih.github.io/moodle-template/Icon_assignments.png");
+	background-image: url("https://mum-mih.github.io/EdResources/Icon_outline.svg");
 	background-size: contain;
 	background-repeat: no-repeat
 }
@@ -366,17 +366,17 @@ table {
 	background-repeat: no-repeat
 }
 #gridsection-10 .image_holder {
-	background-image: url("https://mum-mih.github.io/EdResources/Icon_topic9.png");
+	background-image: url("https://mum-mih.github.io/EdResources/Icon_forum.svg");
 	background-size: contain;
 	background-repeat: no-repeat
 }
 #gridsection-11 .image_holder {
-	background-image: url("https://mum-mih.github.io/EdResources/Icon_topic10.png");
+	background-image: url("https://mum-mih.github.io/EdResources/Icon_key%20contacts.svg");
 	background-size: contain;
 	background-repeat: no-repeat
 }
 #gridsection-12 .image_holder {
-	background-image: url("https://mum-mih.github.io/EdResources/Icon_topic11.png");
+	background-image: url("https://mum-mih.github.io/EdResources/Icon_policy2.svg");
 	background-size: contain;
 	background-repeat: no-repeat
 }

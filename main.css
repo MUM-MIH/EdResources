@@ -379,17 +379,13 @@ table {
 	background-size: contain;
 	background-repeat: no-repeat
 }
+
 #gridsection-12 .image_holder {
-	background-image: url("https://mum-mih.github.io/EdResources/Icon_key%20contacts.svg");
-	background-size: contain;
-	background-repeat: no-repeat
-}
-#gridsection-13 .image_holder {
 	background-image: url("https://mum-mih.github.io/EdResources/Icon_policy2.svg");
 	background-size: contain;
 	background-repeat: no-repeat
 }
-#gridsection-14 .image_holder {
+#gridsection-13 .image_holder {
 	background-image: url("https://mum-mih.github.io/EdResources/Icon_design2.svg");
 	background-size: contain;
 	background-repeat: no-repeat

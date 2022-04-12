@@ -51,27 +51,32 @@
 	background-repeat: no-repeat
 }
 #gridsection-11 .image_holder {
+	background-image: url("https://mum-mih.github.io/EdResources/Icon_topic10.svg");
+	background-size: contain;
+	background-repeat: no-repeat
+}
+#gridsection-12 .image_holder {
 	background-image: url("https://mum-mih.github.io/EdResources/Icon_forum.svg");
 	background-size: contain;
 	background-repeat: no-repeat
 }
 
-#gridsection-12 .image_holder {
+#gridsection-13 .image_holder {
 	background-image: url("https://mum-mih.github.io/EdResources/Icon_policy2.svg");
 	background-size: contain;
 	background-repeat: no-repeat
 }
-#gridsection-13 .image_holder {
+#gridsection-14 .image_holder {
 	background-image: url("https://mum-mih.github.io/EdResources/Icon_design2.svg");
 	background-size: contain;
 	background-repeat: no-repeat
 }
-#gridsection-14 .image_holder {
+#gridsection-15 .image_holder {
 	background-image: url("https://mum-mih.github.io/EdResources/Icon_news.svg");
 	background-size: contain;
 	background-repeat: no-repeat
 }
-#gridsection-15 .image_holder {
+#gridsection-16 .image_holder {
 	background-image: url("https://mum-mih.github.io/EdResources/Icon_links.svg");
 	background-size: contain;
 	background-repeat: no-repeat
